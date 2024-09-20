@@ -1,6 +1,10 @@
 <?php
 
+<<<<<<< HEAD
 namespace OesData\Concurrus;
+=======
+namespace Concurrus;
+>>>>>>> 3cb8ed76b7537b89b5b700c1e8a9bac9a5fbf183
 
 /**
  * testClass.php
