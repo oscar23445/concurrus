@@ -23,3 +23,4 @@ BADGES.md
 psalm_autoload.php
 psalm.xml
 rector.php
+ide/*
