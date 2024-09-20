@@ -12,6 +12,16 @@
             "role": "Developer"
         }
     ],
+    "autoload": {
+        "psr-4": {
+            "OesData\\Concurrus\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "OesData\\Concurrus\\Tests\\": "tests/"
+        }
+    },
     "require": {
         "php": "^7.4 || ^8.3",
         "codeigniter/coding-standard": "^1.5",
