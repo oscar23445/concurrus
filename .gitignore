@@ -23,4 +23,8 @@ BADGES.md
 psalm_autoload.php
 psalm.xml
 rector.php
-ide/*
+# Ignore the src/ide directory
+src/ide/
+
+# Ensure src directory is not ignored
+!src/
