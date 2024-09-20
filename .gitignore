@@ -5,3 +5,21 @@
 .idea
 
 vendor
+
+.github/*
+.editorconfig
+.php-cs-fixer.dist.php
+composer-unused.php
+deptrac.yaml
+infection.json.dist
+phpstan.neon.dist
+phpunit.xml.dist
+phpunit9.xml.dist
+psalm.xml
+psalm_autoload.php
+rector.php
+Vagrantfile.dist
+BADGES.md
+psalm_autoload.php
+psalm.xml
+rector.php
